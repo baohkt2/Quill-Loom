@@ -1,0 +1,5 @@
+{
+  "name": "Remix Quill \u0026 Loom — AI Novel Studio",
+  "description": "A distraction-free AI novel writing studio with Lorebook world-info auto-activation, swipeable continuations, and OpenAI-compatible SSE streaming.",
+  "requestFramePermissions": []
+}
